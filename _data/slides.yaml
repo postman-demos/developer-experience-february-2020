@@ -34,6 +34,18 @@
   tooltip_margin_left: 790px
   tooltip_direction: left
   caption_width: 35
+- caption_title: <br>Twilio, the Voice of App Economy<br><br>
+  caption_text:
+  margin_margin_top: 350px
+  caption_width: 40
+  margin_right: 1
+  background_image: images/twilio-app-economy.jpg
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
 - caption_title: <br>What are API providers doing?<br><br>
   caption_text:
   margin_margin_top: 350px
@@ -63,7 +75,7 @@
   margin_margin_top: 350px
   caption_width: 20
   margin_right: 0
-  background_image: images/fast-lights-freeway-redes-fast-flux-623x425-blue-electricity.jpg
+  background_image: images/fiber-optic-glass.jpg
   tooltip_show: 0
   tooltip_text: Requests
   tooltip_width: 190px
@@ -96,7 +108,7 @@
   tooltip_direction: left
 - caption_title: Collaboration
   caption_text: <ul><li>Portals</li><li>Schema</li><li>Teams</li><li>Workspaces</li><li>Roles</li><li>Conversations</li><li>Publishing</li><li>Sharing</li></ul>
-  margin_margin_top: 350px
+  margin_margin_top: 325px
   caption_width: 22
   margin_right: 0
   background_image: images/collaboration.jpg
@@ -192,9 +204,9 @@
   tooltip_direction: left
 - caption_title: API Consumer Reality 
   caption_text: <ul><li>More 3rd Party APIs</li><li>More Partner APIs</li><li>More Internal APIs</li><li>More Complexity</li><li>More Interactions</li><li>More Chaos</li></ul>
-  margin_margin_top: 350px
+  margin_margin_top: 400px
   caption_width: 25
-  margin_right: 1
+  margin_right: 0
   background_image: images/chaos.jpg
   tooltip_show: 0
   tooltip_text: Requests
@@ -203,9 +215,9 @@
   tooltip_margin_left: 490px
   tooltip_direction: left
 - caption_title: API Consumer Interfaces 
-  caption_text: <ul><li>Client (HTTP, HTTP/2, HTTP/3, TCP)</li><li>Integrated Development Environment (IDE)</li><li>Application Programming Interface (API)</li><li>Command Line Interfaces (CLI)</li><li>Clients</li></ul>
+  caption_text: <ul><li>Client (HTTP, HTTP/2, HTTP/3, TCP)</li><li>Integrated Development Environment (IDE)</li><li>Application Programming Interface (API)</li><li>Command Line Interfaces (CLI)</li><li>Clients (ie. Postman *wink* *wink*)</li></ul>
   margin_margin_top: 350px
-  caption_width: 40
+  caption_width: 35
   margin_right: 0
   background_image: images/control-center.png
   tooltip_show: 0
@@ -241,7 +253,7 @@
 - caption_title: API Provider Life Cycle 
   caption_text: <ul><li>Define</li><li>Mock</li><li>Documentation</li><li>Testing</li><li>Pipelines</li><li>SDKs / Scripts</li><li>Monitoring</li><li>Contract</li></ul>
   margin_margin_top: 325px
-  caption_width: 40
+  caption_width: 30
   margin_right: 0
   background_image: images/api-life-cycle.png
   tooltip_show: 0
@@ -265,7 +277,7 @@
 - caption_title: Business 
   caption_text: <ul><li>Contracts</li><li>Sales</li><li>Analysts</li><li>Workflows</li><li>Events</li><li>Automation</li><li>Visualizations</li><li>Analytics</li></ul>
   margin_margin_top: 300px
-  caption_width: 40
+  caption_width: 20
   margin_right: 0
   background_image: images/business.jpg
   tooltip_show: 0
@@ -313,7 +325,7 @@
 - caption_title: Feedback Loops 
   caption_text: <ul><li>Features</li><li>Issues</li><li>Friction</li><li>Annotations</li><li>Threats</li></ul>
   margin_margin_top: 350px
-  caption_width: 40
+  caption_width: 20
   margin_right: 0
   background_image: images/feedback.png
   tooltip_show: 0
@@ -325,7 +337,7 @@
 - caption_title: Awareness 
   caption_text: <ul><li>Identity</li><li>Trust</li><li>Provenance</li><li>Observability</li><li>Visualization</li></ul>
   margin_margin_top: 350px
-  caption_width: 40
+  caption_width: 20
   margin_right: 0
   background_image: images/awareness.jpeg
   tooltip_show: 0
@@ -335,11 +347,23 @@
   tooltip_margin_left: 490px
   tooltip_direction: left
 - caption_title: Cybernetics 
-  caption_text: <ul><li>Humans</li><li>Machines</li><li>Relationships</li><li>Transactions</li></ul>
+  caption_text: <ul><li>Humans</li><li>Machines</li><li>Relationships</li><li>Transactions</li><li>Feedback Loops</li></ul>
   margin_margin_top: 350px
-  caption_width: 40
+  caption_width: 20
   margin_right: 0
   background_image: images/cybernetics.png
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: <br>Twilio, the Voice of API Economy<br><br>
+  caption_text:
+  margin_margin_top: 350px
+  caption_width: 40
+  margin_right: 1
+  background_image: images/twilio-app-economy.jpg
   tooltip_show: 0
   tooltip_text: Requests
   tooltip_width: 190px
