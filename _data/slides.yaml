@@ -1,0 +1,348 @@
+- caption_title: <br>1) What are API providers doing?<br><br>2) How is developer behavior evolving?<br><br>3) How should Twilio be thinking?<br><br>
+  caption_text:
+  margin_margin_top: 50px
+  caption_width: 48
+  margin_right: 100
+  background_image: images/storytelling.png
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: Kin Lane
+  caption_text: Chief Evangelist for Postman
+  margin_right: 1
+  margin_margin_top: 500px
+  background_image: images/teach-space-chief-evangelist.png
+  tooltip_show: 0
+  tooltip_text: Response
+  tooltip_width: 160px
+  tooltip_margin_top: 370px
+  tooltip_margin_left: 790px
+  tooltip_direction: left
+  caption_width: 35
+- caption_title: Kin Lane
+  caption_text: The API Evangelist
+  margin_right: 1
+  margin_margin_top: 500px
+  background_image: images/teach-space-api-evangelist.png
+  tooltip_show: 0
+  tooltip_text: Response
+  tooltip_width: 160px
+  tooltip_margin_top: 370px
+  tooltip_margin_left: 790px
+  tooltip_direction: left
+  caption_width: 35
+- caption_title: <br>What are API providers doing?<br><br>
+  caption_text:
+  margin_margin_top: 350px
+  caption_width: 40
+  margin_right: 0
+  background_image: images/aws-s3-stories-server-racks-clouds-copper-circuit.jpg
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: Essential Building Blocks
+  caption_text: <ul><li>Portals</li><li>Getting Started</li><li>Authentication</li><li>Documentation</li><li>Sign Up / Login</li><li>SDKs / Snippets</li><li>Definitions (OpenAPI or Collection)</li><li>Support & Feedback</li><li>Pricing & Plans</li><li>Communications</li><li>Terms and Conditions</li><li>Status Dashboard</li></ul>
+  margin_margin_top: 225px
+  caption_width: 35
+  margin_right: 0
+  background_image: images/legos.jpg
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: Type of APIs 
+  caption_text: <ul><li>Internal</li><li>Partner</li><li>Device</li><li>Infrastructure</li><li>Network</li></ul>
+  margin_margin_top: 350px
+  caption_width: 20
+  margin_right: 0
+  background_image: images/fast-lights-freeway-redes-fast-flux-623x425-blue-electricity.jpg
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: Integration and Interfaces 
+  caption_text: <ul><li>Integrated Development Environment</li><li>Application Programming Interface</li><li>Command Line Interfaces</li><li>Clients (ie. Postman *wink* *wink*)</li></ul>
+  margin_margin_top: 350px
+  caption_width: 40
+  margin_right: 0
+  background_image: images/twilio-cli.png
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: Platform 
+  caption_text: <ul><li>Identity</li><li>Runtime</li><li>Database</li><li>Storage</li><li>Network</li></ul>
+  margin_margin_top: 350px
+  caption_width: 20
+  margin_right: 0
+  background_image: images/platform.jpg
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: Collaboration
+  caption_text: <ul><li>Portals</li><li>Schema</li><li>Teams</li><li>Workspaces</li><li>Roles</li><li>Conversations</li><li>Publishing</li><li>Sharing</li></ul>
+  margin_margin_top: 350px
+  caption_width: 22
+  margin_right: 0
+  background_image: images/collaboration.jpg
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: Discovery 
+  caption_text: <ul><li>Search</li><li>Marketplaces</li><li>Workspaces</li><li>Collections</li><li>Environments</li><li>Proxy</li><li>Agents</li></ul>
+  margin_margin_top: 350px
+  caption_width: 20
+  margin_right: 10
+  background_image: images/discovery.jpg
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: Observability 
+  caption_text: <ul><li>Debugging</li><li>Activity</li><li>Logging</li><li>History</li><li>Traceability</li><li>Reporting</li></ul>
+  margin_margin_top: 350px
+  caption_width: 20
+  margin_right: 0
+  background_image: images/observability.jpg
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: Digital Sovereignty 
+  caption_text: <ul><li>Regions</li><li>Services</li><li>Regulatory</li><li>Compliance</li><li>Audibility</li><li>Provenance</li></ul>
+  margin_margin_top: 350px
+  caption_width: 25
+  margin_right: 0
+  background_image: images/supreme-court-governance.jpg
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: Interoperability 
+  caption_text: <ul><li>Integrations</li><li>Plugins</li><li>Browsers</li></ul>
+  margin_margin_top: 350px
+  caption_width: 25
+  margin_right: 1
+  background_image: images/interoperability.jpg
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: Orchestration 
+  caption_text: <ul><li>Webhooks</li><li>Streams</li><li>Pub/Sub</li><li>Events</li><li>Automation</li><li>Scripting</li></ul>
+  margin_margin_top: 350px
+  caption_width: 25
+  margin_right: 0
+  background_image: images/orchestration.jpg
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: Machine Learning 
+  caption_text: <ul><li>Training</li><li>Applying</li><li>Provenance</li><li>Intelligence</li></ul>
+  margin_margin_top: 350px
+  caption_width: 25
+  margin_right: 1
+  background_image: images/crypto-machine-bletchley-crypto-machine-bletchley-copper-circuit.png
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: <br>How is developer behavior evolving? 
+  caption_text:
+  margin_margin_top: 350px
+  caption_width: 50
+  margin_right: 0
+  background_image: images/developer-evolutoin.jpeg
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: API Consumer Reality 
+  caption_text: <ul><li>More 3rd Party APIs</li><li>More Partner APIs</li><li>More Internal APIs</li><li>More Complexity</li><li>More Interactions</li><li>More Chaos</li></ul>
+  margin_margin_top: 350px
+  caption_width: 25
+  margin_right: 1
+  background_image: images/chaos.jpg
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: API Consumer Interfaces 
+  caption_text: <ul><li>Client (HTTP, HTTP/2, HTTP/3, TCP)</li><li>Integrated Development Environment (IDE)</li><li>Application Programming Interface (API)</li><li>Command Line Interfaces (CLI)</li><li>Clients</li></ul>
+  margin_margin_top: 350px
+  caption_width: 40
+  margin_right: 0
+  background_image: images/control-center.png
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: API Consumer Engagement 
+  caption_text: <ul><li>Identity</li><li>Authentication</li><li>Collections</li><li>Environments</li><li>Modularity</li><li>Reuse</li><li>Sharing</li><li>Training</li></ul>
+  margin_margin_top: 325px
+  caption_width: 35
+  margin_right: 0
+  background_image: images/postman-governance-collections.png
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: API Provider Process 
+  caption_text: <ul><li>Private APIs</li><li>Contract-Driven</li><li>Policy-Driven</li><li>API-First</li><li>Modularity</li><li>Reusability</li></ul>
+  margin_margin_top: 350px
+  caption_width: 25
+  margin_right: 0
+  background_image: images/gears-4882162452-fa3126b38d-b-internet-numbers.jpg
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: API Provider Life Cycle 
+  caption_text: <ul><li>Define</li><li>Mock</li><li>Documentation</li><li>Testing</li><li>Pipelines</li><li>SDKs / Scripts</li><li>Monitoring</li><li>Contract</li></ul>
+  margin_margin_top: 325px
+  caption_width: 40
+  margin_right: 0
+  background_image: images/api-life-cycle.png
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: Organizational 
+  caption_text: <ul><li>Agile</li><li>API First</li><li>Containerization</li><li>CI/CD</li><li>DevOps</li><li>Orchestration</li><li>Distributed</li><li>Governance</li><li>Regulatory</li></ul>
+  margin_margin_top: 300px
+  caption_width: 25
+  margin_right: 0
+  background_image: images/stalin-time-construction-crane-city.jpg
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: Business 
+  caption_text: <ul><li>Contracts</li><li>Sales</li><li>Analysts</li><li>Workflows</li><li>Events</li><li>Automation</li><li>Visualizations</li><li>Analytics</li></ul>
+  margin_margin_top: 300px
+  caption_width: 40
+  margin_right: 0
+  background_image: images/business.jpg
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: How should Twilio be thinking about it?
+  caption_text:
+  margin_margin_top: 350px
+  caption_width: 35
+  margin_right: 0
+  background_image: images/twilio.jpg
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: Developer Voice 
+  caption_text: <ul><li>Social</li><li>Backchannel</li><li>DevRel </li><li>Learning</li><li>Mentoring</li><li>Sharing</li></ul>
+  margin_margin_top: 375px
+  caption_width: 25
+  margin_right: 0
+  background_image: images/voice.jpg
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: API Economy 
+  caption_text: <ul><li>Industries</li><li>Messaging</li><li>Notifications</li><li>Trust</li><li>Networks</li><li>Standards</li></ul>
+  margin_margin_top: 375px
+  caption_width: 20
+  margin_right: 0
+  background_image: images/Digital-Economy.jpg
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: Feedback Loops 
+  caption_text: <ul><li>Features</li><li>Issues</li><li>Friction</li><li>Annotations</li><li>Threats</li></ul>
+  margin_margin_top: 350px
+  caption_width: 40
+  margin_right: 0
+  background_image: images/feedback.png
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: Awareness 
+  caption_text: <ul><li>Identity</li><li>Trust</li><li>Provenance</li><li>Observability</li><li>Visualization</li></ul>
+  margin_margin_top: 350px
+  caption_width: 40
+  margin_right: 0
+  background_image: images/awareness.jpeg
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: Cybernetics 
+  caption_text: <ul><li>Humans</li><li>Machines</li><li>Relationships</li><li>Transactions</li></ul>
+  margin_margin_top: 350px
+  caption_width: 40
+  margin_right: 0
+  background_image: images/cybernetics.png
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left

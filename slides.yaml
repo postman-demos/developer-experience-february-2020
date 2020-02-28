@@ -1,0 +1,180 @@
+- caption_title: API Governance
+  caption_text: Working to establish consistent across teams in how APIs are defined, designed, developed, delivered and sustained, striking a balance between what leadership desires and actually occurs on the ground.
+  margin_margin_top: 350px
+  caption_width: 40
+  margin_right: 0
+  background_image: images/supreme-court-governance.jpg
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: API Design (Requests)
+  caption_text: <ul><li>Paths</li><li>Version</li><li>HTTP Methods</li><li>Path Parameters</li><li>Query Parameters</li><li>HTTP Headers</li><li>Body</li><li>Filtering</li><li>Sorting</li><li>Pagination</li></ul>
+  caption_width: 25
+  margin_right: 1
+  margin_margin_top: 150px
+  background_image: images/api-design-api-builder-request.png
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: API Design (Responses)
+  caption_text: <ul><li>HTTP Headers</li><li>HTTP Status Codes</li><li>Error Codes</li><li>Media Types</li><li>Schema</li><li>Encoding</li></ul>
+  caption_width: 30
+  margin_right: 1
+  margin_margin_top: 150px
+  background_image: images/api-design-api-response.png
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: API Design Guidelines
+  caption_text: <ul><li>Collaborative</li><li>Publish</li><li>Evangelism</li><li>Training</li><li>Evolution</li></ul>
+  caption_width: 30
+  margin_right: 0
+  margin_margin_top: 300px
+  background_image: images/white-house-api-design-standards.png
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: Governance via Collections
+  caption_text: <ul><li>Test Scripts</li><li>Test Results</li><li>Organized by Folder</li><li>Run Against Any API</li><li>Store Results in Environments</li></ul>
+  caption_width: 35
+  margin_right: 0
+  margin_margin_top: 300px
+  background_image: images/collection-governance.png
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: Test API Responses
+  caption_text: <ul><li>Test Scripts</li><li>Test Results</li><li>API Responses</li><li>Validation</li></ul>
+  caption_width: 30
+  margin_right: 0
+  margin_margin_top: 300px
+  background_image: images/api-testing-with-postman.png
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: Use OpenAPI Truth
+  caption_text: Using the OpenAPI available in API builder as the source of turth for each API, using it to drive collections, testing, and other stops along the API life cycle.
+  caption_width: 30
+  margin_right: 1
+  margin_margin_top: 300px
+  background_image: images/openapi-truth.png
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: GitHub Integration
+  caption_text: Syncing each OpenAPI with a GitHub repository allowing the API definition to be used in other stops along the API life cycle as the truth of the API being delivered.
+  caption_width: 30
+  margin_right: 0
+  margin_margin_top: 300px
+  background_image: images/github-integration.png
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: GitHub Sync
+  caption_text: Providing two-sync between OpenAPI definitions being governed using postman, ensuring that valid OpenAPI definitions are being used across API operations.
+  caption_width: 30
+  margin_right: 0
+  margin_margin_top: 300px
+  background_image: images/github-sync.png
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: Schema Validation
+  caption_text: The API builder can be used to generate and keep one or more collections in sync with the OpenAPI truth, keeping mocks, documentation, and tests in sync.
+  caption_width: 30
+  margin_right: 1
+  margin_margin_top: 300px
+  background_image: images/schema-validation.png
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: Schema Validation Issues
+  caption_text: Validation issues can be reviewed and reconciled, ensuring that all collections derived from the central truth is in alignment with wider API governance rules.
+  caption_width: 30
+  margin_right: 0
+  margin_margin_top: 300px
+  background_image: images/schema-validation-issues.png
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: Automate with Runners
+  caption_text: Governance collections can be applied to APIs using runners allow them to be ran against different APIs in a manual or automated way, driving more consistency.
+  caption_width: 35
+  margin_right: 0
+  margin_margin_top: 300px
+  background_image: images/governance-runner.png
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: Automate with Monitors
+  caption_text: Governance collections can be applied to APIs on a regular schedule ensuring that APIs stay compliant over time and problems do not emerge down the road.
+  caption_width: 35
+  margin_right: 1
+  margin_margin_top: 300px
+  background_image: images/governance-monitor.png
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: Environment State
+  caption_text: You can designate environments for each stage of an API, using it as storage to maintain the current state of governance for each API being evaluated.
+  caption_width: 35
+  margin_right: 1
+  margin_margin_top: 300px
+  background_image: images/governance-environments.png
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
+- caption_title: Visualizer Reports
+  caption_text: Results of governance can be reported upon by pulling data from each environment and published using the visualizer tab, summarizing governance outcomes.
+  caption_width: 35
+  margin_right: 1
+  margin_margin_top: 300px
+  background_image: images/governance-results.png
+  tooltip_show: 0
+  tooltip_text: Requests
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
